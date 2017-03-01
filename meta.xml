@@ -1,0 +1,7 @@
+﻿<meta>
+	<info name="ZeiyoRP" description="Zeiyo RP gamemode" />
+	<script src="ZeiyoMain.cs" type="server" lang="csharp" />
+	<script src="ZVehicle.cs" type="server" lang="csharp" />
+  <script src="ZFuel.cs" type="server" lang="csharp" />
+  <script src="ZVehicleClient.js" type="client" lang="javascript" />
+</meta>
